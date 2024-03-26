@@ -45,7 +45,7 @@ Neste App são exploradas as seguintes técnicas e tecnologias:
 
   
 
-Você pode [baixar o zip](https://github.com/J3remias-Barcelos/terraform-K8s.zip)
+Você pode [Git do projeto](https://github.com/J3remias-Barcelos/terraform-K8s)
 
   
 
